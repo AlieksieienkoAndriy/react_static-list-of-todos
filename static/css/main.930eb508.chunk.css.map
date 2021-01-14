@@ -1,0 +1,1 @@
+{"version":3,"sources":["User.scss"],"names":[],"mappings":"AAAA,QACE,cAAe,CACf,eAAiB","file":"main.930eb508.chunk.css","sourcesContent":[".person {\n  font-size: 16px;\n  font-weight: bold;\n}\n"]}
