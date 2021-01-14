@@ -1,0 +1,1 @@
+{"version":3,"sources":["Todo.scss","User.scss"],"names":[],"mappings":"AAAA,gBACE,UAAW,CACZ,kBAGC,SAAU,CCLZ,QACE,cAAe,CACf,eAAiB","file":"main.c602ff88.chunk.css","sourcesContent":[".todo--complete {\n  color: blue;\n}\n\n.todo--uncomplete {\n  color: red;\n}\n",".person {\n  font-size: 16px;\n  font-weight: bold;\n}\n"]}
